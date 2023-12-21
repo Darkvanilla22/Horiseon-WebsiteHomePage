@@ -154,7 +154,7 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
 
-### URL to deployed application - http://127.0.0.1:5500/index.html
+### URL to deployed application - https://darkvanilla22.github.io/Horiseon-WebsiteHomePage/
 
 ---
 © 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
